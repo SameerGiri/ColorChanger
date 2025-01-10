@@ -7,7 +7,7 @@ A simple project that changes the background color of a webpage when a button is
 1. **Clone or Download the Repository**
    - Clone the repository to your local machine using:
      ```bash
-     git clone https://github.com/your-username/color-changer.git
+     git clone https://github.com/SameerGiri/ColorChanger
      ```
 
 2. **Open the Project**
